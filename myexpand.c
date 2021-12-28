@@ -1,3 +1,7 @@
+/**
+Expand program written for CSCI 296 
+@author Rick Beaudet
+**/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
